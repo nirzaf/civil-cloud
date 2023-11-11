@@ -1,6 +1,7 @@
 ---
 title: "Testing Net Applications With Xunit"
-date: 2023-04-30T21:24:30+03:00
+description: "Testing Net Applications With Xunit"
+pubDate: 'Apr 30 2023'
 draft: false
 pin : true
 tags: ["xunit", "testing", "c#", ".net"]

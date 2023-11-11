@@ -1,6 +1,7 @@
 ---
 title: "Understanding Dependency Injection in .NET Core"
-date: 2022-09-21T09:59:03+05:30
+description: "Understanding Dependency Injection in .NET Core"
+pubDate: 'Sep 21 2022'
 draft: false
 tags : ["dotnet", "dependency-injection", "dotnet-core"]
 categories: ["dotnet", "dependency-injection", "dotnet-core"]

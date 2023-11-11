@@ -1,6 +1,7 @@
 ---
 title: "Microsoft Blazor Web API with JWT Authentication"
-date: 2022-10-23T09:54:59+05:30
+description: "Microsoft Blazor Web API with JWT Authentication"
+pubDate: 'Oct 23 2022'
 draft: true
 pin : false
 tags: ["blazor", "jwt", "dotnetcore"]

@@ -1,6 +1,7 @@
 ---
 title: "ASP.NET Core .NET 8 Preview 4 New Features and Updates"
-date: 2023-06-05T10:47:49Z
+description: "ASP.NET Core .NET 8 Preview 4 New Features and Updates"
+pubDate: 'Jun 05 2023'
 draft: false
 tags: ["ASP.NET Core", ".NET 8", "Preview 4"]
 categories: ["ASP.NET Core"]

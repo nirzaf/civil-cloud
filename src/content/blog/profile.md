@@ -1,6 +1,7 @@
 ---
 title: "My Profile"
-date: 2020-04-30T06:50:59Z
+description: "My Profile - Mohamed Fazrin Mohamed Farook"
+pubDate: 'Apr 30 2020'
 draft: false
 pin: false
 tags: ["Mohamed", "Fazrin", "Farook", "Software", "Engineer"]

@@ -1,6 +1,7 @@
 ---
 title: "How to Use Redis Caching With Asp.Net Core and Net 7"
-date: 2023-04-30T10:21:08Z
+description: "How to Use Redis Caching With Asp.Net Core and Net 7"
+pubDate: 'Sun Apr 30 2023'
 pin : true
 draft: false
 ---

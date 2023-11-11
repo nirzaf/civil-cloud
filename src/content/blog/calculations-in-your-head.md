@@ -1,6 +1,7 @@
 ---
 title: "Calculations in Your Head"
-date: 2022-08-21T09:04:28+05:30
+description: "Calculations in Your Head"
+pubDate: 'Aug 21 2022'
 draft: false
 ---
 

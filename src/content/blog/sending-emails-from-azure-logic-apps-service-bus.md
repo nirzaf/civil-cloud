@@ -1,6 +1,7 @@
 ---
 title: "Sending Emails From Azure Logic Apps Service Bus"
-date: 2023-02-30T09:33:24Z
+description: "Sending Emails From Azure Logic Apps Service Bus"
+pubDate: 'Feb 30 2023'
 pin : true
 draft: false
 ---

@@ -1,6 +1,7 @@
 ---
 title: "How to perform calendar calculations in your head"
-date: 2022-09-20T13:13:01+05:30
+description: "How to perform calendar calculations in your head"
+pubDate: 'Sep 20 2022'
 draft: false
 image: "https://res.cloudinary.com/dw0ygv1p9/image/upload/v1571614434/calculator_te6ik2.png"
 tags: ["logical-thinking"]

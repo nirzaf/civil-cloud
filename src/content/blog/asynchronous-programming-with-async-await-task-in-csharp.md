@@ -1,6 +1,7 @@
 ---
 title: "Asynchronous Programming With Async Await Task in C#"
-date: 2023-05-03T19:14:52+03:00
+description: "Asynchronous Programming With Async Await Task in C#"
+pubDate: 'May 03 2023'
 pin : true
 draft: false
 tags: ["csharp", "async", "await", "task"]

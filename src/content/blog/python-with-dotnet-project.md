@@ -1,6 +1,7 @@
 ---
 title: "Python With .NET Project"
-date: 2023-04-30T06:50:59Z
+description : "This article discusses how to use Python in .NET projects with C# and provides examples of using IronPython and Tesseract OCR library in a .NET project." 
+pubDate: 'Apr 30 2023'
 draft: false
 pin : false
 tags: ["python", ".net", "c#", "ironpython", "pythonnet"]

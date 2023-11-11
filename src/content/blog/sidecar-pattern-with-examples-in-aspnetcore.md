@@ -1,6 +1,7 @@
 ---
 title: "Sidecar Pattern With Examples in Asp.NET Core"
-date: 2023-04-29T23:46:56+03:00
+description: "Sidecar pattern and its implementation in ASP.NET Core, including examples for middleware and authentication, as well as the Ambassador pattern."
+pubDate: 'Apr 29 2023'
 draft: false
 pin : false
 tags: ["Sidecar", "Asp.NET Core"]

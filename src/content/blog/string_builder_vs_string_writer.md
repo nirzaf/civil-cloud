@@ -1,6 +1,7 @@
 ---
 title: "String Builder vs String Writer in C#"
-date: 2023-04-27T20:39:33+03:00
+description: "String Builder vs String Writer in C#"
+pubDate: 'Apr 27 2023'
 draft: false
 pin: true
 tags : ["C#", "String Builder", "String Writer"]

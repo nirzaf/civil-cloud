@@ -1,6 +1,7 @@
 ---
 title: "Single Page Application With .Net Core and Blazor"
-date: 2021-10-27T21:41:31+05:30
+description: "Single Page Application With .Net Core and Blazor"
+pubDate: 'Oct 27 2021'
 draft: false
 pin : false
 tags : ["C#", ".Net Core", "Blazor", "SPA"]

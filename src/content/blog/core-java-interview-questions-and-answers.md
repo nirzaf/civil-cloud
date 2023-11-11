@@ -1,6 +1,7 @@
 ---
 title: "Core Java Interview Questions and Answers"
-date: 2022-10-13T19:59:57+05:30
+description: "Core Java Interview Questions and Answers"
+pubDate: 'Oct 13 2022'
 draft: false
 tags : ["core java"] 
 ---

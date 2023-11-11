@@ -1,6 +1,7 @@
 ---
 title: "Building an Angular Project With Bootstrap 4 and Firebase"
-date: 2022-10-18T12:51:54+05:30
+description: "Building an Angular Project With Bootstrap 4 and Firebase"
+pubDate: 'Oct 18 2022'
 draft: false
 tags : ["Angular", "Bootstrap", "Firebase"]
 ---

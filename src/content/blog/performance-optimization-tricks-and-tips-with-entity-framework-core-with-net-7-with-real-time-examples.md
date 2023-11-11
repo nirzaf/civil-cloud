@@ -1,6 +1,7 @@
 ---
 title: "Performance Optimization Tricks and Tips With Entity Framework Core With Net 7 With Real Time Examples"
-date: 2023-05-23T20:57:19+03:00
+description: "Performance Optimization Tricks and Tips With Entity Framework Core With Net 7 With Real Time Examples"
+pubDate: 'May 23 2023'
 pin : true
 categories: ["Entity Framework Core", "Performance Optimization"]
 draft: false

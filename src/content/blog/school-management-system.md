@@ -1,6 +1,7 @@
 ---
 title: "School Management System"
-date: 2022-11-04T07:46:43+05:30
+description: "School Management System"
+pubDate: 'Nov 04 2022'
 draft: false
 ---
 

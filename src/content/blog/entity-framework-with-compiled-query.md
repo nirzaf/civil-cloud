@@ -1,6 +1,7 @@
 ---
-title: "Pros and Cons of Entity Framework's Compiled Query "
-date: 2023-05-17T15:59:38+03:00
+title: "Pros and Cons of Entity Framework's Compiled Query"
+description: "Pros and Cons of Entity Framework's Compiled Query"
+pubDate: 'May 17 2023'
 pin : true
 image: "https://learn.microsoft.com/en-us/ef/ef6/media/net45logscale.png"
 tags: ["Entity Framework", "C#", ".NET", "Performance"]

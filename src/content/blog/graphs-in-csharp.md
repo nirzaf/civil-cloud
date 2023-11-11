@@ -1,6 +1,7 @@
 ---
 title: "Graphs in Csharp"
-date: 2023-04-27T12:05:02+03:00
+description: "Graphs in Csharp"
+pubDate: 'Apr 27 2023'
 draft: false
 tags : ["C#", "Graphs", "Data Structures"]
 ---

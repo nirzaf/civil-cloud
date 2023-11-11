@@ -1,6 +1,7 @@
 ---
 title: "Building Windows App With Wpf"
-date: 2023-04-27T23:41:33+03:00
+description: "Building Windows App With Wpf"
+pubDate: 'Apr 27 2023'
 draft: false
 tags : ["wpf"]
 ---

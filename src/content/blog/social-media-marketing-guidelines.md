@@ -1,6 +1,7 @@
 ---
 title: "Social Media Marketing Guidelines"
-date: 2022-11-10T09:50:59+05:30
+description: "Social Media Marketing Guidelines"
+pubDate: 'Nov 10 2022'
 draft: false
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Dictionaries in C#"
-date: 2023-05-01T22:19:17+03:00
+description: "Dictionaries in C#"
+pubDate: 'May 01 2023'
 draft: false
 pin : false
 tags: ["csharp", "dictionaries", "hashmaps"]
