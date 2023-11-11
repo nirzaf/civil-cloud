@@ -2,6 +2,7 @@
 title: "Advance Stock Manager With Point of Sale System"
 description: "Advance Stock Manager With Point of Sale System"
 pubDate: 'Nov 05 2022'
+heroImage: '/pos-system.jpg'
 draft: false
 ---
 
