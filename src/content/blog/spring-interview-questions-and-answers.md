@@ -1,6 +1,7 @@
 ---
 title: "Spring Interview Questions and Answers"
 description: "Spring Interview Questions and Answers"
+heroImage: 'https://res.cloudinary.com/dcx7eongu/image/upload/c_crop,h_653,q_auto,w_1306/v1699812510/dotnet-image_ld6fjg.png'
 pubDate: 'Oct 15 2021'
 draft: false
 tags: ["spring"]

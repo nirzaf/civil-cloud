@@ -1,6 +1,7 @@
 ---
 title: "How Not to Get 30k Bill From Firebase"
 description: "How Not to Get 30k Bill From Firebase"
+heroImage: 'https://res.cloudinary.com/dcx7eongu/image/upload/c_crop,h_653,q_auto,w_1306/v1699812510/dotnet-image_ld6fjg.png'
 pubDate: 'Sep 15 2022'
 draft: false
 tags: ["firebase"]

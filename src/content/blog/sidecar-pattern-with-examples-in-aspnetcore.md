@@ -6,7 +6,7 @@ draft: false
 pin : false
 tags: ["Sidecar", "Asp.NET Core"]
 categories: ["Architecture"]
-featuredImage: "https://miro.medium.com/v2/resize:fit:1400/1*BradCRNTX2go18qcCBNtZQ.png"
+heroImage: 'https://res.cloudinary.com/dcx7eongu/image/upload/c_crop,h_653,q_auto,w_1306/v1699812510/dotnet-image_ld6fjg.png'
 
 ---
 

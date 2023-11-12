@@ -1,6 +1,7 @@
 ---
 title: "Building Windows App With Wpf"
 description: "Building Windows App With Wpf"
+heroImage: 'https://res.cloudinary.com/dcx7eongu/image/upload/c_crop,h_653,q_auto,w_1306/v1699812510/dotnet-image_ld6fjg.png'
 pubDate: 'Apr 27 2023'
 draft: false
 tags : ["wpf"]

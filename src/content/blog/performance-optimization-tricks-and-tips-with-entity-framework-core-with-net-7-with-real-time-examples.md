@@ -1,13 +1,12 @@
 ---
 title: "Performance Optimization Tricks and Tips With Entity Framework Core With Net 7 With Real Time Examples"
 description: "Performance Optimization Tricks and Tips With Entity Framework Core With Net 7 With Real Time Examples"
+heroImage: 'https://res.cloudinary.com/dcx7eongu/image/upload/c_crop,h_640,q_auto,w_1280/v1699812270/maxresdefault_dbjica.jpg'
 pubDate: 'May 23 2023'
 pin : true
 categories: ["Entity Framework Core", "Performance Optimization"]
 draft: false
 ---
-
-![](https://i.ytimg.com/vi/TqC7USVOoxQ/maxresdefault.jpg)
 
 Performance optimization is a critical aspect of developing robust and efficient applications, especially when working with a data access framework like Entity Framework Core (EF Core) in conjunction with the powerful .NET 7 platform. In this article, we will explore some performance optimization tricks and tips with EF Core and demonstrate their application in a real-time example using an accounting application scenario.
 

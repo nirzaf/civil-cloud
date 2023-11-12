@@ -1,6 +1,7 @@
 ---
 title: "Factory Design Pattern With C#"
 description: "Factory Design Pattern With C#"
+heroImage: 'https://res.cloudinary.com/dcx7eongu/image/upload/c_crop,h_653,q_auto,w_1306/v1699812510/dotnet-image_ld6fjg.png'
 pubDate: 'Apr 29 2023'
 pin : false
 draft: false
@@ -15,7 +16,7 @@ In a car factory, it could be used to create different types of cars (e.g. sedan
 
 ### When to use it?
 - When you don’t know ahead of time what class object you need.
-- When all of the potential classes are in the same subclass hierarchy.
+- When all the potential classes are in the same subclass hierarchy.
 - To centralize class selection code.
 - When you don’t want the user to have to know every subclass.
 

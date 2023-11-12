@@ -2,12 +2,12 @@
 title: "Angular Interview Questions and Answers Part 1"
 description: "Angular Interview Questions and Answers Part 1"
 pubDate: 'Sep 021 2022'
+heroImage: 'https://res.cloudinary.com/dw0ygv1p9/image/upload/v1571632021/1_klTLGz5T5Ryy4QVBkgsNCQ_lf5kdf.jpg'
 draft: false
 tags : ["angular", "interview"]
 pin: false
 
 ---
-!["Angular Logo"](https://res.cloudinary.com/dw0ygv1p9/image/upload/v1571632021/1_klTLGz5T5Ryy4QVBkgsNCQ_lf5kdf.jpg)
 
 ### Q1. What is Angular 4 and how it differs from Angular 1.x?
 

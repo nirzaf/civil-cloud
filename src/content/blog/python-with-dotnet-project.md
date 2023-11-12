@@ -1,6 +1,7 @@
 ---
 title: "Python With .NET Project"
-description : "This article discusses how to use Python in .NET projects with C# and provides examples of using IronPython and Tesseract OCR library in a .NET project." 
+description : "This article discusses how to use Python in .NET projects with C# and provides examples of using IronPython and Tesseract OCR library in a .NET project."
+heroImage: 'https://res.cloudinary.com/dcx7eongu/image/upload/c_crop,h_653,q_auto,w_1306/v1699812510/dotnet-image_ld6fjg.png'
 pubDate: 'Apr 30 2023'
 draft: false
 pin : false

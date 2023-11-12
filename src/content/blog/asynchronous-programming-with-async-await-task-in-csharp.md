@@ -1,6 +1,7 @@
 ---
 title: "Asynchronous Programming With Async Await Task in C#"
 description: "Asynchronous Programming With Async Await Task in C#"
+heroImage: 'https://res.cloudinary.com/dcx7eongu/image/upload/c_crop,h_653,q_auto,w_1306/v1699812510/dotnet-image_ld6fjg.png'
 pubDate: 'May 03 2023'
 pin : true
 draft: false

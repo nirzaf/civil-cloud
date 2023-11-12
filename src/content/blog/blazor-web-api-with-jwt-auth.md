@@ -1,6 +1,7 @@
 ---
 title: "Microsoft Blazor Web API with JWT Authentication"
 description: "Microsoft Blazor Web API with JWT Authentication"
+heroImage: 'https://res.cloudinary.com/dcx7eongu/image/upload/c_crop,h_653,q_auto,w_1306/v1699812510/dotnet-image_ld6fjg.png'
 pubDate: 'Oct 23 2022'
 draft: true
 pin : false

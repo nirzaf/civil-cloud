@@ -1,7 +1,8 @@
 ---
-title: "My Profile"
+title: "Who Am I?"
 description: "My Profile - Mohamed Fazrin Mohamed Farook"
 pubDate: 'Apr 30 2020'
+heroImage: 'https://res.cloudinary.com/dcx7eongu/image/upload/v1699810895/linkedin-banner_waa2v1.png'
 draft: false
 pin: false
 tags: ["Mohamed", "Fazrin", "Farook", "Software", "Engineer"]

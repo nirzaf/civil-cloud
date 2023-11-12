@@ -1,6 +1,7 @@
 ---
 title: "ASP.NET Core .NET 8 Preview 4 New Features and Updates"
 description: "ASP.NET Core .NET 8 Preview 4 New Features and Updates"
+heroImage: 'https://res.cloudinary.com/dcx7eongu/image/upload/c_crop,g_face,h_512,w_1024/v1699812067/c4899045-7f7e-4ca0-bc8f-e0645009de6d_plsvf0.jpg'
 pubDate: 'Jun 05 2023'
 draft: false
 tags: ["ASP.NET Core", ".NET 8", "Preview 4"]

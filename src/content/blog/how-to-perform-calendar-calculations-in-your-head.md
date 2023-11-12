@@ -3,7 +3,7 @@ title: "How to perform calendar calculations in your head"
 description: "How to perform calendar calculations in your head"
 pubDate: 'Sep 20 2022'
 draft: false
-image: "https://res.cloudinary.com/dw0ygv1p9/image/upload/v1571614434/calculator_te6ik2.png"
+heroImage: 'https://res.cloudinary.com/dcx7eongu/image/upload/c_crop,h_653,q_auto,w_1306/v1699812510/dotnet-image_ld6fjg.png'
 tags: ["logical-thinking"]
 comments: false
 ---

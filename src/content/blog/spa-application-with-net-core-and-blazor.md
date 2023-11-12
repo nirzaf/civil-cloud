@@ -1,6 +1,7 @@
 ---
 title: "Single Page Application With .Net Core and Blazor"
 description: "Single Page Application With .Net Core and Blazor"
+heroImage: 'https://res.cloudinary.com/dcx7eongu/image/upload/c_crop,h_653,q_auto,w_1306/v1699812510/dotnet-image_ld6fjg.png'
 pubDate: 'Oct 27 2021'
 draft: false
 pin : false
