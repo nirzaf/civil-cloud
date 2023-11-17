@@ -1,7 +1,7 @@
 ---
 title: "Queryable vs List in Entity Framework Core"
 description: "Queryable vs List in Entity Framework Core"
-heroImage: 'https://res.cloudinary.com/dcx7eongu/image/upload/c_crop,h_653,q_auto,w_1306/v1699812510/dotnet-image_ld6fjg.png'
+heroImage: 'https://res.cloudinary.com/dcx7eongu/image/upload/c_scale,q_60,w_1000/v1700216547/EF_core_hsskrb.jpg'
 pubDate: 'May 11 2023'
 pin : true
 categories: ["Entity Framework Core, C#, Queryable, List"]

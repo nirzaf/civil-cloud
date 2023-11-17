@@ -1,18 +1,16 @@
 ---
-title: "Sidecar Pattern With Examples in Asp.NET Core"
+title: "Sidecar Pattern with Asp.NET Core"
 description: "Sidecar pattern and its implementation in ASP.NET Core, including examples for middleware and authentication, as well as the Ambassador pattern."
 pubDate: 'Apr 29 2023'
 draft: false
 pin : false
 tags: ["Sidecar", "Asp.NET Core"]
 categories: ["Architecture"]
-heroImage: 'https://res.cloudinary.com/dcx7eongu/image/upload/c_crop,h_653,q_auto,w_1306/v1699812510/dotnet-image_ld6fjg.png'
+heroImage: 'https://res.cloudinary.com/dcx7eongu/image/upload/c_crop,h_600,w_1199/v1700218762/sidecar-design-pattern_gsvnqm.png'
 
 ---
 
 The Sidecar pattern is a software architecture pattern that involves splitting an application into two separate processes: a primary application and a “sidecar” process. The sidecar process runs alongside the main application and provides additional functionality, such as caching, logging, monitoring, or authentication.
-
-![Sidecar pattern](https://miro.medium.com/v2/resize:fit:1400/1*BradCRNTX2go18qcCBNtZQ.png)
 
 In ASP.NET Core, the Sidecar pattern can be implemented using middleware. Middleware is software that sits between the web server and the application, intercepting requests and responses to perform additional processing. A sidecar middleware can be added to the ASP.NET Core pipeline to provide additional functionality to the application.
 
