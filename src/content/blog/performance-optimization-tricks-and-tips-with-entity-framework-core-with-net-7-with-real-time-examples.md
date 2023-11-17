@@ -1,5 +1,5 @@
 ---
-title: "Performance Optimization Tricks and Tips With Entity Framework Core With Net 7 With Real Time Examples"
+title: "Performance Optimization Tricks and Tips With EF Core"
 description: "Performance Optimization Tricks and Tips With Entity Framework Core With Net 7 With Real Time Examples"
 heroImage: 'https://res.cloudinary.com/dcx7eongu/image/upload/c_crop,h_640,q_auto,w_1280/v1699812270/maxresdefault_dbjica.jpg'
 pubDate: 'May 23 2023'
