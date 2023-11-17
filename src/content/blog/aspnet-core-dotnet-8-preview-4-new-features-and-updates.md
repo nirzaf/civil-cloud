@@ -7,14 +7,14 @@ draft: false
 tags: ["ASP.NET Core", ".NET 8", "Preview 4"]
 categories: ["ASP.NET Core"]
 ---
-![](https://i.ibb.co/BtG2CLN/c4899045-7f7e-4ca0-bc8f-e0645009de6d.jpg)
 
 The latest news about ASP.NET Core has been released, and it brings exciting new features and updates aimed at enhancing the development experience. The ASP.NET Core development team has been working hard to introduce these features in the latest Preview. Let's delve into the details of the new features and updates.
 
 1. Blazor:
    - Streamlining SSR with Blazor Components: With the release of .NET 8, it is now possible to stream content updates to client-side using Server-Side Rendering (SSR). This allows for faster-loading server-side Blazor pages. By adding a script tag and using conditional rendering, you can optimize the page loading experience.
 
-   ```html
+```html
+
     @if (isServerSide)
     {
          <script src="_framework/blazor.server.js"></script>
@@ -23,11 +23,11 @@ The latest news about ASP.NET Core has been released, and it brings exciting new
     {
          <script src="_framework/blazor.webassembly.js"></script>
     }
-    ```
+    
+```
 
    - Mastering Form Posts in Blazor SSR: Dealing with form posts in SSR has become easier. You can now create a model binding context using the CascadingModelBinder component, and define a form using the EditForm component. This simplifies form submission handling in Blazor SSR.
-
-   ```html
+    
     <CascadingModelBinder>
         <EditForm Model="@model" OnValidSubmit="@HandleValidSubmit">
             <InputText @bind-Value="@model.Name" />
@@ -50,17 +50,17 @@ The latest news about ASP.NET Core has been released, and it brings exciting new
 Check the below code snippet for form binding:
 
 ```csharp
-app.MapPost("/upload", (IFormFile file) =>
-{
-    // Do something with the file
-});
+   app.MapPost("/upload", (IFormFile file) =>
+   {
+       // Do something with the file
+   });
 ```
 
 4. Boost Your API Development with .http Files: New API projects now come with an included .http file. This file simplifies testing your app's endpoints using the Visual Studio HTTP editor. You can define your API host address and easily test various request examples.
 
 
 ```http
-GET https://localhost:5001/weatherforecast
+   GET https://localhost:5001/weatherforecast
 ```
 
 5. Native AOT: Native Ahead-of-Time (AOT) compilation is now available, allowing for improved performance and reduced startup time of applications.
