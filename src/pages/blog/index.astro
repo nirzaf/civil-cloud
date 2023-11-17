@@ -5,7 +5,7 @@ import Footer from '../../components/Footer.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../../consts';
 import { getCollection } from 'astro:content';
 
-var posts = (await getCollection('blog')).sort(
+const posts = (await getCollection('blog')).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 ---
 
@@ -85,6 +85,18 @@ var posts = (await getCollection('blog')).sort(
 	</head>
 	<body>
 		<Header />
+		<div id="search"></div>
+		<script>
+			window.addEventListener("DOMContentLoaded", (event) => {
+				// @ts-ignore
+				new PagefindUI({
+					element: "#search",
+					debounceTimeoutMs: 500,
+					showEmptyFilters: false,
+					showSubResults: true,
+				});
+			});
+		</script>
 		<main>
 			<section>
 				<ul>
