@@ -1,15 +1,13 @@
 ---
 title: "Factory Design Pattern With C#"
 description: "Factory Design Pattern With C#"
-heroImage: 'https://res.cloudinary.com/dcx7eongu/image/upload/c_crop,h_653,q_auto,w_1306/v1699812510/dotnet-image_ld6fjg.png'
+heroImage: 'https://res.cloudinary.com/dcx7eongu/image/upload/c_crop,h_350,q_100,w_700/v1700218437/0_C-_tIpLaN7rQe8tc_wvcqlx.webp'
 pubDate: 'Apr 29 2023'
 pin : false
 draft: false
 ---
 
 # Factory Design Pattern With Csharp
-
-![](https://miro.medium.com/v2/resize:fit:828/format:webp/0*C-_tIpLaN7rQe8tc.jpeg)
 
 The factory design pattern is a creational pattern that provides a way to create objects without specifying the exact class of object that will be created. 
 In a car factory, it could be used to create different types of cars (e.g. sedans, SUVs, trucks) without specifying the exact make and model of each car.
