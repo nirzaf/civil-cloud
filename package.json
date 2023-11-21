@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro check && astro build && pagefind --site dist && copy /y dist\\pagefind public\\",
+    "build": "astro check && astro build && pagefind --site dist",
     "preview": "astro preview",
     "astro": "astro"
   },
