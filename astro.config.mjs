@@ -4,6 +4,6 @@ import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
-	site: 'https://dotnetevangelist.net',
+	site: 'https://nirzaf.github.io/civil-cloud',
 	integrations: [mdx(), sitemap()],
 });
